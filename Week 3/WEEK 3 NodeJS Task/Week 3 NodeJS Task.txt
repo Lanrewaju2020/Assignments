@@ -1,0 +1,11 @@
+Week 3 NodeJS Task:Loops, Arrays, Objects, Conditional and Scope Task Answers
+1. B
+2. A
+3. FALSE
+4. TRUE
+5. C
+6. B
+7. C
+8. TRUE
+9. TRUE
+10.TRUE

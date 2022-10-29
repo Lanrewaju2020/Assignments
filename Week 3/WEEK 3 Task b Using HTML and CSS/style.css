@@ -1,0 +1,19 @@
+
+ul,li {width: 100px; list-style-type:none;}
+fieldset {border: 1px solid black;}
+fieldset { width: 50%; font-size: 25px;}
+fieldset { border-radius: 10px;
+    background-color: green;
+    color: aliceblue;
+    width: 300px;
+    padding-block: 50;
+
+}
+#submit { 
+width: 100%;
+color:red ;
+border: 1px;
+border-color: azure;
+}
+h2 
+{ color: rgb(197, 38, 38); }

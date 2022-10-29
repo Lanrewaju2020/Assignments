@@ -1,0 +1,13 @@
+fieldset { border: 1px ; }
+
+fieldset { background-color: green;}
+#email {color: red; }
+#login { color: red ; 
+border: 1px;
+width: 100px;
+font-family: Verdana, Geneva, Tahoma, sans-serif; }
+#signup { color: red;
+border: 1px;
+width: 100px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
